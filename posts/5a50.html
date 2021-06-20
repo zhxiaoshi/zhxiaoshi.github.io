@@ -1,0 +1,53 @@
+<div class="card"><div class="card-image"><span class="image is-7by3"><img class="fill" src="https://images.unsplash.com/photo-1599335727546-450eb6753648?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=2100&amp;q=80" alt="自定义域名"></span></div><article class="card-content article" role="article"><div class="article-meta is-size-7 is-uppercase level is-mobile"><div class="level-left"><span class="level-item"><time dateTime="2019-01-03T14:31:36.000Z" title="2019/1/3 下午10:31:36">2019-01-03</time>发表</span><span class="level-item"><time dateTime="2021-06-20T17:11:30.511Z" title="2021/6/21 上午1:11:30">2021-06-21</time>更新</span><span class="level-item"><a class="link-muted" href="/categories/%E7%BB%8F%E9%AA%8C/">经验</a></span><span class="level-item">2 分钟读完 (大约332个字)</span></div></div><h1 class="title is-3 is-size-4-mobile">自定义域名</h1><div class="content"><link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>创建了github page后，一直想着绑定一个自定义的顶级域名，方便好记（装逼😂）。趁着更换平台，在万网注册了一个域名后，花了10分钟成功绑定。</p>
+ <span id="more"></span>
+
+<p>具体步骤如下：</p>
+<ol>
+<li>wanwang.aliyun.com 挑选喜欢的（经济的）域名加入购物车进行结账；</li>
+<li>进行实名认证，条款说不认证就无法解析域名（🤷‍♂️）。因为万网是阿里云旗下，支付宝用户可以快捷认证。</li>
+<li>进入域名管理，域名解析，添加两条CNAME。主机记录分别协商解决‘@’和‘www’；后面记录统一写为‘xxx.github.io’。（这样在网址前是否添加www都可以正常访问）</li>
+<li>在hexo/source 文件夹下创建CNAME文件（touch CNAME），然后编辑该文件，在首行添加刚申请的域名（e.g. xxx.com）。这里需要注意，域名前不需要添加http://或www。</li>
+<li>hexo g -d 上传部署。</li>
+<li>等10分钟左右吧。Done！</li>
+</ol>
+
+        <div id="aplayer-bogjCDtd" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+            <pre class="aplayer-lrc-content"></pre>
+        </div>
+        <script>
+          var ap = new APlayer({
+            element: document.getElementById("aplayer-bogjCDtd"),
+            narrow: false,
+            autoplay: true,
+            showlrc: false,
+            music: {
+              title: "友谊之光",
+              author: "亮生",
+              url: "https://github.com/zhxiaoshi/web-resource/raw/master/%E5%8F%8B%E8%B0%8A%E4%B9%8B%E5%85%89.mp3",
+              pic: "https://github.com/zhxiaoshi/web-resource/raw/master/liangsheng.jpeg",
+              lrc: ""
+            }
+          });
+          window.aplayers || (window.aplayers = []);
+          window.aplayers.push(ap);
+        </script>
+
+</div><div class="article-tags is-size-7 mb-4"><span class="mr-2">#</span><a class="link-muted mr-2" rel="tag" href="/tags/log/">log</a></div><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/social-share.js@1.0.16/dist/css/share.min.css"><div class="social-share"></div><script src="https://cdn.jsdelivr.net/npm/social-share.js@1.0.16/dist/js/social-share.min.js"></script></article></div><div class="card"><div class="card-content"><h3 class="menu-label has-text-centered">喜欢这篇文章？打赏一下作者吧</h3><div class="buttons is-centered"><a class="button donate" data-type="alipay"><span class="icon is-small"><i class="fab fa-alipay"></i></span><span>支付宝</span><span class="qrcode"><img src="/img/qr-alipay.png" alt="支付宝"></span></a><a class="button donate" data-type="wechat"><span class="icon is-small"><i class="fab fa-weixin"></i></span><span>微信</span><span class="qrcode"><img src="/img/qr-wechat.png" alt="微信"></span></a></div></div></div><nav class="post-navigation mt-4 level is-mobile"><div class="level-start"><a class="article-nav-prev level level-item link-muted" href="/posts/77e2.html"><i class="level-item fas fa-chevron-left"></i><span class="level-item">如何操作两个github账户</span></a></div><div class="level-end"><a class="article-nav-next level level-item link-muted" href="/posts/35db.html"><span class="level-item">2019</span><i class="level-item fas fa-chevron-right"></i></a></div></nav><div class="card"><div class="card-content"><h3 class="title is-5">评论</h3><div class="content" id="valine-thread"></div><script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script><script src="https://cdn.jsdelivr.net/npm/valine@1.4.14/dist/Valine.min.js"></script><script>new Valine({
+            el: '#valine-thread' ,
+            appId: "8zBTgTjmVw4qEoSSiaN1MCdy-MdYXbMMI",
+            appKey: "phllF76VFRUx8cQwsHGmaWFu",
+            placeholder: "请留下邮箱以便回复您时，您可以收到邮件通知。",
+            avatar: "retro",
+            
+            meta: ["nick","mail","link"],
+            pageSize: 10,
+            lang: "zh-CN",
+            
+            highlight: true,
+            
+            
+            
+            
+            
+            requiredFields: [],
+        });</script></div></div>
