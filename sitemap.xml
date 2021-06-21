@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://zhxiaoshi.github.io/posts/afab.html</loc>
+    
+    <lastmod>2021-06-21</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://zhxiaoshi.github.io/posts/3c18.html</loc>
     
     <lastmod>2021-06-21</lastmod>
@@ -38,13 +45,6 @@
   
   <url>
     <loc>https://zhxiaoshi.github.io/posts/c26b.html</loc>
-    
-    <lastmod>2021-06-21</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://zhxiaoshi.github.io/posts/afab.html</loc>
     
     <lastmod>2021-06-21</lastmod>
     
@@ -424,14 +424,14 @@
   </url>
   
   <url>
-    <loc>https://zhxiaoshi.github.io/tags/replication/</loc>
+    <loc>https://zhxiaoshi.github.io/tags/log/</loc>
     <lastmod>2021-06-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://zhxiaoshi.github.io/tags/log/</loc>
+    <loc>https://zhxiaoshi.github.io/tags/replication/</loc>
     <lastmod>2021-06-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -494,14 +494,14 @@
   </url>
   
   <url>
-    <loc>https://zhxiaoshi.github.io/tags/writing/</loc>
+    <loc>https://zhxiaoshi.github.io/tags/study/</loc>
     <lastmod>2021-06-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://zhxiaoshi.github.io/tags/study/</loc>
+    <loc>https://zhxiaoshi.github.io/tags/writing/</loc>
     <lastmod>2021-06-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
