@@ -410,85 +410,85 @@
 
   <url>
     <loc>https://zhxiaoshi.github.io/</loc>
-    <lastmod>2021-06-20</lastmod>
+    <lastmod>2021-06-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>https://zhxiaoshi.github.io/tags/Reading/</loc>
-    <lastmod>2021-06-20</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://zhxiaoshi.github.io/tags/log/</loc>
-    <lastmod>2021-06-20</lastmod>
+    <lastmod>2021-06-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://zhxiaoshi.github.io/tags/Paper-replication/</loc>
-    <lastmod>2021-06-20</lastmod>
+    <lastmod>2021-06-21</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://zhxiaoshi.github.io/tags/Reading/</loc>
+    <lastmod>2021-06-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://zhxiaoshi.github.io/tags/Development/</loc>
-    <lastmod>2021-06-20</lastmod>
+    <lastmod>2021-06-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://zhxiaoshi.github.io/tags/Idea/</loc>
-    <lastmod>2021-06-20</lastmod>
+    <lastmod>2021-06-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://zhxiaoshi.github.io/tags/Study/</loc>
-    <lastmod>2021-06-20</lastmod>
+    <lastmod>2021-06-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://zhxiaoshi.github.io/tags/Stata/</loc>
-    <lastmod>2021-06-20</lastmod>
+    <lastmod>2021-06-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://zhxiaoshi.github.io/tags/%E8%A7%82%E5%AF%9F/</loc>
-    <lastmod>2021-06-20</lastmod>
+    <lastmod>2021-06-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://zhxiaoshi.github.io/tags/Paper/</loc>
-    <lastmod>2021-06-20</lastmod>
+    <lastmod>2021-06-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://zhxiaoshi.github.io/tags/reading/</loc>
-    <lastmod>2021-06-20</lastmod>
+    <lastmod>2021-06-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://zhxiaoshi.github.io/tags/thinking/</loc>
-    <lastmod>2021-06-20</lastmod>
+    <lastmod>2021-06-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -496,43 +496,43 @@
 
   
   <url>
-    <loc>https://zhxiaoshi.github.io/categories/Study/</loc>
-    <lastmod>2021-06-20</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://zhxiaoshi.github.io/categories/%E8%AE%B0%E5%BD%95/</loc>
-    <lastmod>2021-06-20</lastmod>
+    <lastmod>2021-06-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://zhxiaoshi.github.io/categories/%E6%96%87%E7%8C%AE/</loc>
-    <lastmod>2021-06-20</lastmod>
+    <lastmod>2021-06-21</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://zhxiaoshi.github.io/categories/Study/</loc>
+    <lastmod>2021-06-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://zhxiaoshi.github.io/categories/%E7%BB%8F%E9%AA%8C/</loc>
-    <lastmod>2021-06-20</lastmod>
+    <lastmod>2021-06-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://zhxiaoshi.github.io/categories/%E8%AF%BB%E4%B9%A6/</loc>
-    <lastmod>2021-06-20</lastmod>
+    <lastmod>2021-06-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://zhxiaoshi.github.io/categories/Study/%E7%BB%8F%E9%AA%8C/</loc>
-    <lastmod>2021-06-20</lastmod>
+    <lastmod>2021-06-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
