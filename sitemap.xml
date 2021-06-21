@@ -9,6 +9,13 @@
   </url>
   
   <url>
+    <loc>https://zhxiaoshi.github.io/category/index.html</loc>
+    
+    <lastmod>2021-06-21</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://zhxiaoshi.github.io/posts/6a7c.html</loc>
     
     <lastmod>2021-06-21</lastmod>
@@ -387,13 +394,6 @@
   </url>
   
   <url>
-    <loc>https://zhxiaoshi.github.io/category/index.html</loc>
-    
-    <lastmod>2018-08-31</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://zhxiaoshi.github.io/search/index.html</loc>
     
     <lastmod>2018-08-31</lastmod>
@@ -417,6 +417,13 @@
 
   
   <url>
+    <loc>https://zhxiaoshi.github.io/tags/replication/</loc>
+    <lastmod>2021-06-21</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://zhxiaoshi.github.io/tags/ref/</loc>
     <lastmod>2021-06-21</lastmod>
     <changefreq>daily</changefreq>
@@ -431,7 +438,14 @@
   </url>
   
   <url>
-    <loc>https://zhxiaoshi.github.io/tags/replication/</loc>
+    <loc>https://zhxiaoshi.github.io/tags/%E5%8F%82%E8%80%83/</loc>
+    <lastmod>2021-06-21</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://zhxiaoshi.github.io/tags/method/</loc>
     <lastmod>2021-06-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -459,20 +473,6 @@
   </url>
   
   <url>
-    <loc>https://zhxiaoshi.github.io/tags/method/</loc>
-    <lastmod>2021-06-21</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://zhxiaoshi.github.io/tags/%E5%8F%82%E8%80%83/</loc>
-    <lastmod>2021-06-21</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://zhxiaoshi.github.io/tags/materials/</loc>
     <lastmod>2021-06-21</lastmod>
     <changefreq>daily</changefreq>
@@ -487,7 +487,7 @@
   </url>
   
   <url>
-    <loc>https://zhxiaoshi.github.io/tags/stata/</loc>
+    <loc>https://zhxiaoshi.github.io/tags/Stata/</loc>
     <lastmod>2021-06-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -517,7 +517,7 @@
 
   
   <url>
-    <loc>https://zhxiaoshi.github.io/categories/study/</loc>
+    <loc>https://zhxiaoshi.github.io/categories/Study/</loc>
     <lastmod>2021-06-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -531,7 +531,7 @@
   </url>
   
   <url>
-    <loc>https://zhxiaoshi.github.io/categories/materials/</loc>
+    <loc>https://zhxiaoshi.github.io/categories/Materials/</loc>
     <lastmod>2021-06-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
