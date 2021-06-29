@@ -6,7 +6,7 @@
   <link href="https://zhxiaoshi.github.io/atom.xml" rel="self"/>
   
   <link href="https://zhxiaoshi.github.io/"/>
-  <updated>2021-06-23T14:46:17.298Z</updated>
+  <updated>2021-06-25T06:31:59.916Z</updated>
   <id>https://zhxiaoshi.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://zhxiaoshi.github.io/posts/7425.html"/>
     <id>https://zhxiaoshi.github.io/posts/7425.html</id>
     <published>2021-06-23T14:38:12.000Z</published>
-    <updated>2021-06-23T14:46:17.298Z</updated>
+    <updated>2021-06-25T06:31:59.916Z</updated>
     
     <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>与南京相遇的时间，太过偶然。与南京相聚的时间，太过短暂。</p><span id="more"></span><p>一年半的时间，并没有驻足，好好地欣赏。别离的时候，穿梭在大街小巷，南京的韵味在历史与绿色的掩映下，愈发诱人。</p><p>很难不让人心动，很难不让人懊恼：你竟忍心别离。</p><p>似乎像是赌气的女孩，出租车开的飞快。心慌与意乱，都被抛在脑后，猝不及防。</p>]]></content>
     
@@ -42,7 +42,7 @@
     <link href="https://zhxiaoshi.github.io/posts/7d4.html"/>
     <id>https://zhxiaoshi.github.io/posts/7d4.html</id>
     <published>2021-06-20T18:43:01.000Z</published>
-    <updated>2021-06-21T07:09:51.129Z</updated>
+    <updated>2021-06-25T06:31:59.917Z</updated>
     
     <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>因为注释代码的时候，没有按照yml规范，导致hexo server一直启动不起来。<br>倒推回去，一步步修改post.md和最后的错误推文，然并卵。还白白耽误了三个小时。</p><span id="more"></span><p>这里面有一些比较tricky的地方。<br>第一是，error提示是head.jsx文件逻辑错误。<br>第二是，作为小白用户，一般选择google issue，但这次确实经历长时间挣扎，在百度中检索到了可参考信息（其实就是在主题的issue中，见<a href="https://github.com/ppoffice/hexo-theme-icarus/issues/797%EF%BC%89%E3%80%82">https://github.com/ppoffice/hexo-theme-icarus/issues/797）。</a></p><p>虽然不像程序员的密集代码量，经济学研究的简单coding也需要大量注释与naming过程。将代码写的具有自读或信息自显特别重要。翻看以往的代码，如果不是从头回顾，往往不知道我自己写的是啥！😂</p><p>由于系统崩溃，20年底之后，半年没有在对blog进行更新。师兄在讨论家用电器的技术女性偏向时，想起来之前在blog做的记录，遂动手找回原来博客文件，重新建立连接。</p><p>算是新的起点，也是新的征程吧。</p>]]></content>
     
@@ -129,9 +129,9 @@
     <link href="https://zhxiaoshi.github.io/posts/5708.html"/>
     <id>https://zhxiaoshi.github.io/posts/5708.html</id>
     <published>2020-06-15T14:01:33.000Z</published>
-    <updated>2021-06-21T07:02:11.645Z</updated>
+    <updated>2021-06-29T06:41:22.291Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="一、写作"><a href="#一、写作" class="headerlink" title="一、写作"></a>一、写作</h2><h3 id="1-文字处理"><a href="#1-文字处理" class="headerlink" title="1. 文字处理"></a>1. 文字处理</h3><ul><li>Microsoft 365 （原来叫Microsoft office 365，即Word、Powerpoint、Excel）</li><li>Typora（Markdown）</li><li>Overleaf （网页版 latex 工具）</li><li>Pandoc 文件转换</li><li>Sublime Text 3</li><li>Notes （Mac 自带）</li><li>记事本 （Windows自带）</li></ul><span id="more"></span><h3 id="2-PDF-文档"><a href="#2-PDF-文档" class="headerlink" title="2. PDF 文档"></a>2. PDF 文档</h3><ul><li>Adobe Acrobat Pro （Windows）</li><li>PDF Expert （Mac）</li><li>Preview （Mac 自带）</li></ul><h2 id="二、图片工具"><a href="#二、图片工具" class="headerlink" title="二、图片工具"></a>二、图片工具</h2><ul><li>Snipast</li><li>iShot （Mac）</li><li>Photoshop</li><li>Github 图床</li><li>新浪微博图床</li><li>Unsplash素材</li><li>Google Photos</li></ul><h2 id="三、数据处理"><a href="#三、数据处理" class="headerlink" title="三、数据处理"></a>三、数据处理</h2><ul><li>Stata 16.1</li><li>R </li><li>Python</li></ul><h2 id="四、-文献管理"><a href="#四、-文献管理" class="headerlink" title="四、 文献管理"></a>四、 文献管理</h2><ul><li>Mendeley</li><li>Zotero</li><li>Readcube Papers</li></ul><h2 id="五、图书管理"><a href="#五、图书管理" class="headerlink" title="五、图书管理"></a>五、图书管理</h2><ul><li>Kindle</li><li>calibre</li><li>Apple Books （Mac）</li><li>微信读书（网页版）</li></ul><h2 id="六、浏览器"><a href="#六、浏览器" class="headerlink" title="六、浏览器"></a>六、浏览器</h2><ul><li>Chrome</li><li>Safari（Mac）</li></ul><p>##七、音乐</p><ul><li>Apple Music</li><li>网易音乐</li></ul><p>##八、云服务</p><ul><li>Onedrive</li><li>iCloud</li><li>Dropbox</li><li>Clash （代理工具）</li></ul><h2 id="九、邮箱"><a href="#九、邮箱" class="headerlink" title="九、邮箱"></a>九、邮箱</h2><ul><li>Spark （Mac）</li><li>Outlook</li></ul><h2 id="十、信息"><a href="#十、信息" class="headerlink" title="十、信息"></a>十、信息</h2><ul><li>微博</li><li>Twitter</li><li>RSS</li><li>微信</li><li>Github</li></ul>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="一、写作"><a href="#一、写作" class="headerlink" title="一、写作"></a>一、写作</h2><h3 id="1-文字处理"><a href="#1-文字处理" class="headerlink" title="1. 文字处理"></a>1. 文字处理</h3><ul><li>Microsoft 365 （原来叫Microsoft office 365，即Word、Powerpoint、Excel）</li><li>Typora（Markdown）</li><li>Overleaf （网页版 latex 工具）</li><li>Pandoc 文件转换</li><li>Sublime Text 3</li><li>Notes （Mac 自带）</li><li>记事本 （Windows自带）</li></ul><span id="more"></span><h3 id="2-PDF-文档"><a href="#2-PDF-文档" class="headerlink" title="2. PDF 文档"></a>2. PDF 文档</h3><ul><li>Adobe Acrobat Pro （Windows）</li><li>PDF Expert （Mac）</li><li>Preview （Mac 自带）</li></ul><h2 id="二、图片工具"><a href="#二、图片工具" class="headerlink" title="二、图片工具"></a>二、图片工具</h2><ul><li>Snipast</li><li>iShot （Mac）</li><li>Photoshop</li><li>Github 图床</li><li>新浪微博图床</li><li>Unsplash素材</li><li>Google Photos</li></ul><h2 id="三、数据处理"><a href="#三、数据处理" class="headerlink" title="三、数据处理"></a>三、数据处理</h2><ul><li>Stata 16.1</li><li>R </li><li>Python</li></ul><h2 id="四、-文献管理"><a href="#四、-文献管理" class="headerlink" title="四、 文献管理"></a>四、 文献管理</h2><ul><li>Mendeley</li><li>Zotero</li><li>Readcube Papers</li></ul><h2 id="五、图书管理"><a href="#五、图书管理" class="headerlink" title="五、图书管理"></a>五、图书管理</h2><ul><li>Kindle</li><li>calibre</li><li>Apple Books （Mac）</li><li>微信读书（网页版）</li></ul><h2 id="六、浏览器"><a href="#六、浏览器" class="headerlink" title="六、浏览器"></a>六、浏览器</h2><ul><li>Chrome</li><li>Safari（Mac）</li></ul><h2 id="七、音乐"><a href="#七、音乐" class="headerlink" title="七、音乐"></a>七、音乐</h2><ul><li>Apple Music</li><li>网易音乐</li></ul><h2 id="八、云服务"><a href="#八、云服务" class="headerlink" title="八、云服务"></a>八、云服务</h2><ul><li>Onedrive</li><li>iCloud</li><li>Dropbox</li><li>Clash （代理工具）</li></ul><h2 id="九、邮箱"><a href="#九、邮箱" class="headerlink" title="九、邮箱"></a>九、邮箱</h2><ul><li>Spark （Mac）</li><li>Outlook</li></ul><h2 id="十、信息"><a href="#十、信息" class="headerlink" title="十、信息"></a>十、信息</h2><ul><li>微博</li><li>Twitter</li><li>RSS</li><li>微信</li><li>Github</li></ul>]]></content>
     
     
     <summary type="html">&lt;h2 id=&quot;一、写作&quot;&gt;&lt;a href=&quot;#一、写作&quot; class=&quot;headerlink&quot; title=&quot;一、写作&quot;&gt;&lt;/a&gt;一、写作&lt;/h2&gt;&lt;h3 id=&quot;1-文字处理&quot;&gt;&lt;a href=&quot;#1-文字处理&quot; class=&quot;headerlink&quot; title=&quot;1. 文字处理&quot;&gt;&lt;/a&gt;1. 文字处理&lt;/h3&gt;&lt;ul&gt;
@@ -249,7 +249,7 @@
     <link href="https://zhxiaoshi.github.io/posts/3c18.html"/>
     <id>https://zhxiaoshi.github.io/posts/3c18.html</id>
     <published>2020-04-07T04:27:48.000Z</published>
-    <updated>2021-06-21T07:31:28.248Z</updated>
+    <updated>2021-06-29T06:45:18.659Z</updated>
     
     <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>上午又折腾了一小时的邮箱配置。现在Spark是我的主力邮箱客户端，mac和ipad、iphone可以统一协调，还是省心不少的。但回国之后，mac上收取邮件比较正常，但在移动端，虽然可以收到邮件，但总是无法正常打开。需要挂载V PN，才能保证连接速度和邮件推送。</p><p>在网络上调查了一圈，几乎没有一个完美简洁的邮箱客户端可供选择，这是一个月经问题。很多人推荐mail.app，系统自带的app无论是速度还是稳定性都不错。但我仅用它作备选，主要是它的UI比较丑，功能还不够完善。还有一点我无法忍受的是，在邮箱中设置的文件夹无法同步更改，看着非常别扭。虽然不影响使用，但个人难以接受。</p><p>最终，还是退回到Spark上，通过设置访问规则，过滤掉我要用的校园IP，随时保持邮箱在墙外在线。</p><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=400 height=86 src="//music.163.com/outchain/player?type=2&id=480442286&auto=1&height=66"></iframe>]]></content>
     
